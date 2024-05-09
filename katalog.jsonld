@@ -1,0 +1,28 @@
+{
+    "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+    "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/katalog.jsonld",
+    "typ": "Katalog",
+    "název": {
+        "cs": "Katalog test HVD",
+        "en": "Test HVD Catalog"
+    },
+    "popis": {
+        "cs": "HVD TEST",
+        "en": "HVD TEST"
+    },
+    "kontaktní_bod": {
+        "typ": "Organizace",
+        "jméno": {
+            "cs": "DIA",
+            "en": "Czech Digital and Information Agency"
+        },
+        "e-mail": "jakub.klimek@dia.gov.cz"
+    },
+    "domovská_stránka": "https://data.gov.cz/datové-sady?poskytovatel=Ministerstvo%20dopravy",
+    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66003008",
+    "datová_sada": [
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1",
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd2",
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd3"
+    ]
+}
