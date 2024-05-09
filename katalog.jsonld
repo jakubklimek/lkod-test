@@ -21,8 +21,8 @@
     "domovská_stránka": "https://data.gov.cz/datové-sady?poskytovatel=Ministerstvo%20dopravy",
     "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66003008",
     "datová_sada": [
-        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1",
-        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd2",
-        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd3"
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1.jsonld",
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd2.jsonld",
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd3.jsonld"
     ]
 }

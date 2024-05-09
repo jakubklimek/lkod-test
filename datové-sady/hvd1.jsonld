@@ -1,6 +1,6 @@
 {
     "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/draft/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-    "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1",
+    "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1.jsonld",
     "typ": "Datová sada",
     "název": {
         "cs": "HVD1",
@@ -66,7 +66,7 @@
     ],
     "distribuce": [
         {
-            "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1/distribuce/csv",
+            "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1.jsonld/distribuce/csv",
             "typ": "Distribuce",
             "podmínky_užití": {
                 "typ": "Specifikace podmínek užití",
@@ -94,7 +94,7 @@
             }
         },
         {
-            "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1/distribuce/sparql",
+            "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1.jsonld/distribuce/sparql",
             "typ": "Distribuce",
             "podmínky_užití": {
                 "typ": "Specifikace podmínek užití",
@@ -112,7 +112,7 @@
                 "http://data.europa.eu/eli/reg_impl/2023/138/oj"
             ],
             "přístupová_služba": {
-                "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1/služba/sparql",
+                "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1.jsonld/služba/sparql",
                 "typ": "Datová služba",
                 "název": {
                     "cs": "SPARQL endpoint pro jízdní řády",
