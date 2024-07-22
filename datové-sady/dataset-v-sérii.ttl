@@ -1,0 +1,62 @@
+<https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.ttl/distribuce/sparql>
+        a       <http://www.w3.org/ns/dcat#Distribution>;
+        <http://purl.org/dc/terms/title>
+                "SPARQL endpoint pro rozpočty"@cs , "SPARQL endpoint for budget"@en;
+        <http://www.w3.org/ns/dcat#accessService>
+                <https://data.gov.cz/lkod/mdcr/datové-sady/vld/služba/sparql>;
+        <http://www.w3.org/ns/dcat#accessURL>
+                <https://rozpočty.cz/sparql>;
+        <https://data.gov.cz/slovník/podmínky-užití/specifikace>
+                [ a       <https://data.gov.cz/slovník/podmínky-užití/Specifikace>;
+                  <https://data.gov.cz/slovník/podmínky-užití/autorské-dílo>
+                          <https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/>;
+                  <https://data.gov.cz/slovník/podmínky-užití/databáze-chráněná-zvláštními-právy>
+                          <https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/>;
+                  <https://data.gov.cz/slovník/podmínky-užití/databáze-jako-autorské-dílo>
+                          <https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/>;
+                  <https://data.gov.cz/slovník/podmínky-užití/osobní-údaje>
+                          <https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/>
+                ] .
+
+<https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.ttl>
+        a       <http://www.w3.org/ns/dcat#Dataset>;
+        <http://data.europa.eu/r5r/applicableLegislation>
+                <http://data.europa.eu/eli/dir/2019/1024/oj>;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                <http://publications.europa.eu/resource/authority/frequency/WEEKLY_3>;
+        <http://purl.org/dc/terms/description>
+                "Rozpočet Ministerstva dopravy 2019"@cs , "Budget of the Ministry of Transport 2019"@en;
+        <http://purl.org/dc/terms/publisher>
+                <https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66003008>;
+        <http://purl.org/dc/terms/spatial>
+                <http://publications.europa.eu/resource/authority/continent/EUROPE> , <https://linked.cuzk.cz/resource/ruian/stat/1>;
+        <http://purl.org/dc/terms/title>
+                "Dataset v sérii"@cs , "Budget of the Ministry of Transport 2019"@en;
+        <http://www.w3.org/ns/dcat#contactPoint>
+                [ a       <http://www.w3.org/2006/vcard/ns#Organization>;
+                  <http://www.w3.org/2006/vcard/ns#fn>
+                          "Ministry of Transport"@en , "Ministerstvo dopravy, Odbor veřejné dopravy"@cs;
+                  <http://www.w3.org/2006/vcard/ns#hasEmail>
+                          <mailto:sekretariat.190@mdcr.cz>
+                ];
+        <http://www.w3.org/ns/dcat#distribution>
+                <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.ttl/distribuce/sparql>;
+        <http://www.w3.org/ns/dcat#inSeries>
+                <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/série.ttl>;
+        <http://www.w3.org/ns/dcat#keyword>
+                "rozpočet"@cs , "budget"@en;
+        <http://www.w3.org/ns/dcat#theme>
+                <http://eurovoc.europa.eu/4512> , <http://publications.europa.eu/resource/authority/data-theme/TRAN>;
+        <http://xmlns.com/foaf/0.1/page>
+                <https://www.mdcr.cz/rozpočet> .
+
+<https://data.gov.cz/lkod/mdcr/datové-sady/vld/služba/sparql>
+        a       <http://www.w3.org/ns/dcat#DataService>;
+        <http://purl.org/dc/terms/conformsTo>
+                <https://www.w3.org/TR/sparql11-protocol/>;
+        <http://purl.org/dc/terms/title>
+                "SPARQL endpoint for budget"@en , "SPARQL endpoint pro rozpočty"@cs;
+        <http://www.w3.org/ns/dcat#endpointDescription>
+                <https://rozpočty.cz/sparql>;
+        <http://www.w3.org/ns/dcat#endpointURL>
+                <https://rozpočty.cz/sparql> .

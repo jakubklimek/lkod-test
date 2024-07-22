@@ -1,0 +1,19 @@
+<https://raw.githubusercontent.com/jakubklimek/lkod-test/main/katalog.ttl>
+        a       <http://www.w3.org/ns/dcat#Catalog>;
+        <http://purl.org/dc/terms/description>
+                "HVD TEST"@en , "HVD TEST"@cs;
+        <http://purl.org/dc/terms/publisher>
+                <https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66003008>;
+        <http://purl.org/dc/terms/title>
+                "Test HVD Catalog"@en , "Katalog test HVD"@cs;
+        <http://www.w3.org/ns/dcat#contactPoint>
+                [ a       <http://www.w3.org/2006/vcard/ns#Organization>;
+                  <http://www.w3.org/2006/vcard/ns#fn>
+                          "Czech Digital and Information Agency"@en , "DIA"@cs;
+                  <http://www.w3.org/2006/vcard/ns#hasEmail>
+                          <file:///C:/Tools/GitHub/lkod-test/jakub.klimek@dia.gov.cz>
+                ];
+        <http://www.w3.org/ns/dcat#dataset>
+                <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dynamická1.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/série.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd3.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd2.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1.ttl>;
+        <http://xmlns.com/foaf/0.1/homepage>
+                <https://data.gov.cz/datové-sady?poskytovatel=Ministerstvo%20dopravy> .
