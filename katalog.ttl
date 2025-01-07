@@ -14,6 +14,6 @@
                           <file:///C:/Tools/GitHub/lkod-test/jakub.klimek@dia.gov.cz>
                 ];
         <http://www.w3.org/ns/dcat#dataset>
-                <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dynamická1.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/série.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd3.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd2.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1.ttl>;
+                 <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/série.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd3.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd2.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1.ttl>;
         <http://xmlns.com/foaf/0.1/homepage>
                 <https://data.gov.cz/datové-sady?poskytovatel=Ministerstvo%20dopravy> .
