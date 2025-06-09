@@ -25,6 +25,8 @@
         "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd2.jsonld",
         "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd3.jsonld",
         "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/série.jsonld",
-        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.jsonld"
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.jsonld",
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/slovník1.jsonld",
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/slovník2.jsonld"
     ]
 }
