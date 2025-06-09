@@ -80,8 +80,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://oha02.dia.gov.cz/soubory/slovník1.jsonld",
-      "přístupové_url": "https://oha02.dia.gov.cz/soubory/slovník1.jsonld",
+      "soubor_ke_stažení": "https://oha02.dia.gov.cz/soubor/slovník1.jsonld",
+      "přístupové_url": "https://oha02.dia.gov.cz/soubor/slovník1.jsonld",
       "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
       "schéma": "https://ofn.gov.cz/slovníky/draft/schémata/konceptuální-model.json"
