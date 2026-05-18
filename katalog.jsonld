@@ -1,5 +1,5 @@
 {
-    "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+    "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-dat/draft/katalog/kontext.jsonld",
     "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/katalog.jsonld",
     "typ": "Katalog",
     "název": {
@@ -27,6 +27,8 @@
         "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/série.jsonld",
         "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.jsonld",
         "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/slovník1.jsonld",
-        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/slovník2.jsonld"
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/slovník2.jsonld",
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/novásérie.jsonld",
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-nové-sérii.jsonld"
     ]
 }

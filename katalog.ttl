@@ -1,11 +1,11 @@
-<https://raw.githubusercontent.com/jakubklimek/lkod-test/main/katalog.ttl>
+<https://raw.githubusercontent.com/jakubklimek/lkod-test/main/katalog.jsonld>
         a       <http://www.w3.org/ns/dcat#Catalog>;
         <http://purl.org/dc/terms/description>
-                "HVD TEST"@en , "HVD TEST"@cs;
+                "HVD TEST"@cs , "HVD TEST"@en;
         <http://purl.org/dc/terms/publisher>
                 <https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66003008>;
         <http://purl.org/dc/terms/title>
-                "Test HVD Catalog"@en , "Katalog test HVD"@cs;
+                "Katalog test HVD"@cs , "Test HVD Catalog"@en;
         <http://www.w3.org/ns/dcat#contactPoint>
                 [ a       <http://www.w3.org/2006/vcard/ns#Organization>;
                   <http://www.w3.org/2006/vcard/ns#fn>
@@ -14,6 +14,6 @@
                           <file:///C:/Tools/GitHub/lkod-test/jakub.klimek@dia.gov.cz>
                 ];
         <http://www.w3.org/ns/dcat#dataset>
-                 <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/série.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd3.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd2.ttl> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1.ttl>;
+                <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd1.jsonld> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd2.jsonld> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd3.jsonld> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/série.jsonld> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.jsonld> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/slovník1.jsonld> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/slovník2.jsonld> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/novásérie.jsonld> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-nové-sérii.jsonld>;
         <http://xmlns.com/foaf/0.1/homepage>
                 <https://data.gov.cz/datové-sady?poskytovatel=Ministerstvo%20dopravy> .

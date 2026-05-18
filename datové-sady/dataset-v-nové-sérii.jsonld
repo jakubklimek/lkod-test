@@ -1,17 +1,17 @@
 {
-    "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-    "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.jsonld",
+    "@context": "https://ofn.gov.cz/dcat-ap-cz-otevřená-data/draft/datová-sada/kontext.jsonld",
+    "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-nové-sérii.jsonld",
     "typ": "Datová sada",
     "název": {
-      "cs": "Dataset v sérii",
-      "en": "Budget of the Ministry of Transport 2019"
+      "cs": "Dataset v nové sérii",
+      "en": "Dataset in new series"
     },
     "popis": {
       "cs": "Rozpočet Ministerstva dopravy 2019",
       "en": "Budget of the Ministry of Transport 2019"
     },
     "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66003008",
-    "je_součástí": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/série.jsonld",
+    "je_součástí": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/novásérie.jsonld",
     "téma": [
       "http://publications.europa.eu/resource/authority/data-theme/TRAN"
     ],
@@ -42,10 +42,16 @@
     "koncept_euroVoc": [
       "http://eurovoc.europa.eu/4512"
     ],
+    "právní_předpis": [
+      "http://data.europa.eu/eli/dir/2019/1024/oj"
+    ],
     "distribuce": [
-      {
+    {
         "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dataset-v-sérii.jsonld/distribuce/sparql",
         "typ": "Distribuce",
+        "právní_předpis": [
+          "http://data.europa.eu/eli/dir/2019/1024/oj"
+        ],
         "podmínky_užití": {
           "typ": "Specifikace podmínek užití",
           "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -61,6 +67,9 @@
         "přístupová_služba": {
           "iri": "https://data.gov.cz/lkod/mdcr/datové-sady/vld/služba/sparql",
           "typ": "Datová služba",
+          "právní_předpis": [
+            "http://data.europa.eu/eli/dir/2019/1024/oj"
+          ],
           "název": {
             "cs": "SPARQL endpoint pro rozpočty",
             "en": "SPARQL endpoint for budget"
@@ -72,6 +81,7 @@
           "popis_přístupového_bodu": "https://rozpočty.cz/sparql"
         }
       }
-    ]
+    ],
+    "vstupní_stránka": "https://github.com/jakubklimek/lkod-test/blob/main/datové-sady/dataset-v-nové-sérii.jsonld"
   }
   

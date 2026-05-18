@@ -1,0 +1,29 @@
+<https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/novásérie.jsonld>
+        a       <http://www.w3.org/ns/dcat#DatasetSeries>;
+        <http://data.europa.eu/r5r/applicableLegislation>
+                <http://data.europa.eu/eli/dir/2019/1024/oj>;
+        <http://purl.org/dc/terms/accrualPeriodicity>
+                <http://publications.europa.eu/resource/authority/frequency/WEEKLY_3>;
+        <http://purl.org/dc/terms/description>
+                "Rozpočet Ministerstva dopravy"@cs , "Budget of the Ministry of Transport"@en;
+        <http://purl.org/dc/terms/publisher>
+                <https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66003008>;
+        <http://purl.org/dc/terms/spatial>
+                <http://publications.europa.eu/resource/authority/continent/EUROPE> , <https://linked.cuzk.cz/resource/ruian/stat/1>;
+        <http://purl.org/dc/terms/title>
+                "Série datových sad - nová"@cs , "Dataset series - new"@en;
+        <http://www.w3.org/ns/dcat#contactPoint>
+                [ a       <http://www.w3.org/2006/vcard/ns#Organization>;
+                  <http://www.w3.org/2006/vcard/ns#fn>
+                          "Ministry of Transport"@en , "Ministerstvo dopravy, Odbor veřejné dopravy"@cs;
+                  <http://www.w3.org/2006/vcard/ns#hasEmail>
+                          <mailto:sekretariat.190@mdcr.cz>
+                ];
+        <http://www.w3.org/ns/dcat#keyword>
+                "rozpočet"@cs , "budget"@en;
+        <http://www.w3.org/ns/dcat#landingPage>
+                <https://github.com/jakubklimek/lkod-test/blob/main/datové-sady/novásérie.jsonld>;
+        <http://www.w3.org/ns/dcat#theme>
+                <http://publications.europa.eu/resource/authority/data-theme/TRAN> , <http://eurovoc.europa.eu/4512>;
+        <http://xmlns.com/foaf/0.1/page>
+                <https://www.mdcr.cz/rozpočet> .
