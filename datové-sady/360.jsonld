@@ -10,7 +10,7 @@
         "cs": "Obsahem datové sady jsou schválené a aktuálně platné jízdní řády veřejné linkové dopravy postoupené do Celostátního informačního systému o jízdních řádech ve strojově zpracovatelném formátu.",
         "en": "This dataset contains approved timetables and timetables in effect for public transport entered into the state-wide timetable information system."
     },
-    "poskytovatel": "ovm:66003008",
+    "poskytovatel": "ovm:17651921",
     "téma": [
         "témata:GOVE"
     ],
