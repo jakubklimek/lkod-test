@@ -1,8 +1,8 @@
 <https://rpp-opendata.egon.gov.cz/odrpp/zdroj/isvs/3>
         <https://slovník.gov.cz/legislativní/sbírka/365/2000/pojem/zahrnuje>
-                <https://data.gov.cz/lkod/mdcr/datové-sady/vld> .
+                <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld> .
 
-<https://data.md.gov.cz/isvs/1000/datová-rozhraní/2/služba/1>
+<https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld/datová-rozhraní/2/služba/1>
         a       <http://www.w3.org/ns/dcat#DataService>;
         <http://data.europa.eu/r5r/applicableLegislation>
                 <https://www.e-sbirka.cz/sb/2023/360/2024-07-01> , <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20>;
@@ -15,14 +15,14 @@
         <http://www.w3.org/ns/dcat#endpointURL>
                 <https://portal.iscrr.cz/sparql> .
 
-<https://data.md.gov.cz/isvs/1000/datová-rozhraní/2>
+<https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld/datová-rozhraní/2>
         a       <https://slovník.gov.cz/legislativní/sbírka/360/2023/pojem/datové-rozhraní> , <http://www.w3.org/ns/dcat#Distribution>;
         <http://data.europa.eu/r5r/applicableLegislation>
                 <https://www.e-sbirka.cz/sb/2023/360/2024-07-01> , <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20>;
         <http://purl.org/dc/terms/title>
                 "Kontext údajů o řidiči poskytovaných přes ISSS"@cs;
         <http://www.w3.org/ns/dcat#accessService>
-                <https://data.md.gov.cz/isvs/1000/datová-rozhraní/2/služba/1>;
+                <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld/datová-rozhraní/2/služba/1>;
         <http://www.w3.org/ns/dcat#accessURL>
                 <https://portal.iscrr.cz/sparql>;
         <https://data.gov.cz/slovník/podmínky-užití/specifikace>
@@ -65,7 +65,7 @@
                           <https://slovník.gov.cz/legislativní/sbírka/361/2000/pojem/skupina-vozidel>
                 ] .
 
-<https://data.md.gov.cz/isvs/1000/datová-rozhraní/1>
+<https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld/datová-rozhraní/1>
         a       <http://www.w3.org/ns/dcat#Distribution> , <https://slovník.gov.cz/legislativní/sbírka/360/2023/pojem/datové-rozhraní>;
         <http://data.europa.eu/r5r/applicableLegislation>
                 <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20> , <https://www.e-sbirka.cz/sb/2023/360/2024-07-01>;
@@ -103,7 +103,7 @@
         <https://slovník.gov.cz/legislativní/sbírka/360/2023/pojem/má-způsob-získání-dat-sdílených-rozhraním>
                 <https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/vlastní> .
 
-<https://data.gov.cz/lkod/mdcr/datové-sady/vld>
+<https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld>
         a       <http://www.w3.org/ns/dcat#Dataset> , <https://slovník.gov.cz/veřejný-sektor/pojem/datová-sada>;
         <http://data.europa.eu/r5r/applicableLegislation>
                 <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20> , <https://www.e-sbirka.cz/sb/2023/360/2024-07-01>;
@@ -132,7 +132,7 @@
                           <mailto:sekretariat.190@mdcr.cz>
                 ];
         <http://www.w3.org/ns/dcat#distribution>
-                <https://data.md.gov.cz/isvs/1000/datová-rozhraní/1> , <https://data.md.gov.cz/isvs/1000/datová-rozhraní/2>;
+                <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld/datová-rozhraní/1> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld/datová-rozhraní/2>;
         <http://www.w3.org/ns/dcat#keyword>
                 "bus"@en , "public transport"@en , "timetable"@en , "autobus"@cs , "veřejná linková doprava"@cs , "jízdní řády"@cs;
         <http://www.w3.org/ns/dcat#theme>

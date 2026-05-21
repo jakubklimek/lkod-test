@@ -1,6 +1,6 @@
 {
     "@context": "https://ofn.gov.cz/dcat-ap-cz-360-2023/2025-08-12/datová-sada/kontext.jsonld",
-    "iri": "https://data.gov.cz/lkod/mdcr/datové-sady/vld",
+    "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld",
     "typ": ["Datová sada", "Datová sada SSP"],
     "název": {
         "cs": "Jízdní řády veřejné linkové dopravy",
@@ -58,7 +58,7 @@
     "je_zahrnuta_v_isvs": "isvs:3",
     "distribuce": [
         {
-            "iri": "https://data.md.gov.cz/isvs/1000/datová-rozhraní/1",
+            "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld/datová-rozhraní/1",
             "typ": [
                 "Distribuce",
                 "Datové rozhraní"
@@ -95,7 +95,7 @@
             ]
         },
         {
-            "iri": "https://data.md.gov.cz/isvs/1000/datová-rozhraní/2",
+            "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld/datová-rozhraní/2",
             "typ": [
                 "Distribuce",
                 "Datové rozhraní"
@@ -112,7 +112,7 @@
                 "cs": "Kontext údajů o řidiči poskytovaných přes ISSS"
             },
             "přístupová_služba": {
-                "iri": "https://data.md.gov.cz/isvs/1000/datová-rozhraní/2/služba/1",
+                "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld/datová-rozhraní/2/služba/1",
                 "typ": "Datová služba",
                 "název": {
                     "cs": "Kontext údajů o řidiči poskytovaných přes ISSS"
