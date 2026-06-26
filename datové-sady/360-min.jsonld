@@ -31,7 +31,7 @@
         "https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01",
         "https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27"
     ],
-    "je_zahrnuta_v_isvs": "isvs:3",
+    "je_zahrnuta_v_isvs": "isvs:7596",
     "distribuce": [
         {
             "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360-min.jsonld/datová-rozhraní/1",
