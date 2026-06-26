@@ -1,10 +1,10 @@
 {
-    "@context": "https://ofn.gov.cz/dcat-ap-cz-360-2023/2025-08-12/datová-sada/kontext.jsonld",
+    "@context": "https://ofn.gov.cz/dcat-ap-cz-datová-rozhraní/draft/datová-sada/kontext.jsonld",
     "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360-min.jsonld",
     "typ": ["Datová sada", "Datová sada SSP"],
     "název": {
-        "cs": "Minimální 360 sada pro testování",
-        "en": "Minimum 360 dataset for testing"
+        "cs": "Minimální ZoSD/360 sada pro testování",
+        "en": "Minimum ZoSD/360 dataset for testing"
     },
     "popis": {
         "cs": "Obsahem datové sady jsou schválené a aktuálně platné jízdní řády veřejné linkové dopravy postoupené do Celostátního informačního systému o jízdních řádech ve strojově zpracovatelném formátu.",
@@ -28,7 +28,8 @@
     },
     "právní_předpis": [
         "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20",
-        "https://www.e-sbirka.cz/sb/2023/360/2024-07-01"
+        "https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01",
+        "https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27"
     ],
     "je_zahrnuta_v_isvs": "isvs:3",
     "distribuce": [
@@ -54,7 +55,8 @@
             ],
             "právní_předpis": [
                 "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20",
-                "https://www.e-sbirka.cz/sb/2023/360/2024-07-01"
+                "https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01",
+                "https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27"
             ]
         },
         {
@@ -76,7 +78,8 @@
                 "přístupový_bod": "https://portal.iscrr.cz/sparql",
                 "právní_předpis": [
                     "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20",
-                    "https://www.e-sbirka.cz/sb/2023/360/2024-07-01"
+                    "https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01",
+                    "https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27"
                 ]
             },
             "způsob_získání_sdílených_údajů": [
@@ -89,7 +92,8 @@
             ],
             "právní_předpis": [
                 "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20",
-                "https://www.e-sbirka.cz/sb/2023/360/2024-07-01"
+                "https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01",
+                "https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27"
             ]
        }
     ]

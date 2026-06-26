@@ -5,7 +5,7 @@
 <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360-min.jsonld/datová-rozhraní/2/služba/1>
         a       <http://www.w3.org/ns/dcat#DataService>;
         <http://data.europa.eu/r5r/applicableLegislation>
-                <https://www.e-sbirka.cz/sb/2023/360/2024-07-01> , <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20>;
+                <https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27> , <https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01> , <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20>;
         <http://purl.org/dc/terms/title>
                 "Kontext údajů o řidiči poskytovaných přes ISSS"@cs;
         <http://www.w3.org/ns/dcat#endpointURL>
@@ -14,7 +14,7 @@
 <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360-min.jsonld/datová-rozhraní/2>
         a       <https://slovník.gov.cz/legislativní/sbírka/360/2023/pojem/datové-rozhraní> , <http://www.w3.org/ns/dcat#Distribution>;
         <http://data.europa.eu/r5r/applicableLegislation>
-                <https://www.e-sbirka.cz/sb/2023/360/2024-07-01> , <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20>;
+                <https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27> , <https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01> , <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20>;
         <http://www.w3.org/ns/dcat#accessService>
                 <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360-min.jsonld/datová-rozhraní/2/služba/1>;
         <http://www.w3.org/ns/dcat#accessURL>
@@ -31,7 +31,7 @@
 <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360-min.jsonld/datová-rozhraní/1>
         a       <https://slovník.gov.cz/legislativní/sbírka/360/2023/pojem/datové-rozhraní> , <http://www.w3.org/ns/dcat#Distribution>;
         <http://data.europa.eu/r5r/applicableLegislation>
-                <https://www.e-sbirka.cz/sb/2023/360/2024-07-01> , <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20>;
+                <https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27> , <https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01> , <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20>;
         <http://purl.org/dc/terms/format>
                 <http://publications.europa.eu/resource/authority/file-type/ZIP>;
         <http://www.w3.org/ns/dcat#accessURL>
@@ -50,16 +50,16 @@
 <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360-min.jsonld>
         a       <http://www.w3.org/ns/dcat#Dataset> , <https://slovník.gov.cz/veřejný-sektor/pojem/datová-sada>;
         <http://data.europa.eu/r5r/applicableLegislation>
-                <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20> , <https://www.e-sbirka.cz/sb/2023/360/2024-07-01>;
+                <https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20> , <https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01> , <https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27>;
         <http://purl.org/dc/terms/description>
                 "Obsahem datové sady jsou schválené a aktuálně platné jízdní řády veřejné linkové dopravy postoupené do Celostátního informačního systému o jízdních řádech ve strojově zpracovatelném formátu."@cs , "This dataset contains approved timetables and timetables in effect for public transport entered into the state-wide timetable information system."@en;
         <http://purl.org/dc/terms/publisher>
                 <https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921>;
         <http://purl.org/dc/terms/title>
-                "Minimální 360 sada pro testování"@cs , "Minimum 360 dataset for testing"@en;
+                "Minimální ZoSD/360 sada pro testování"@cs , "Minimum ZoSD/360 dataset for testing"@en;
         <http://www.w3.org/ns/dcat#distribution>
                 <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360-min.jsonld/datová-rozhraní/1> , <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360-min.jsonld/datová-rozhraní/2>;
         <http://www.w3.org/ns/dcat#keyword>
-                "bus"@en , "jízdní řády"@cs , "veřejná linková doprava"@cs , "autobus"@cs , "timetable"@en , "public transport"@en;
+                "bus"@en , "public transport"@en , "jízdní řády"@cs , "veřejná linková doprava"@cs , "autobus"@cs , "timetable"@en;
         <http://www.w3.org/ns/dcat#theme>
                 <http://publications.europa.eu/resource/authority/data-theme/GOVE> .
