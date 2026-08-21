@@ -33,6 +33,7 @@
         "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld",
         "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360-min.jsonld",
         "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/dynamická1.jsonld",
-        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/ZoSD.jsonld"
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/ZoSD.jsonld",
+        "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/hvd-2026-09-11-1.jsonld"
     ]
 }

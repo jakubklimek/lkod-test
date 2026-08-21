@@ -1,0 +1,94 @@
+{
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-otevřená-data/draft/datová-sada/kontext.jsonld",
+  "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/slovník-2026-09-11-1.jsonld",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "slovník-2026-09-11-1",
+    "en": "slovník-2026-09-11-1"
+  },
+  "popis": {
+    "cs": "Slovník 2",
+    "en": "Vocabulary 2"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [
+    "http://publications.europa.eu/resource/authority/continent/EUROPE"
+  ],
+  "prostorové_pokrytí": [],
+  "časové_pokrytí": {
+    "typ": "Časový interval",
+    "začátek": "2009-01-01",
+    "konec": "2017-12-31"
+  },
+  "klíčové_slovo": {
+    "cs": [
+      "slovník"
+    ],
+    "en": [
+      "vocabulary"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/WEEKLY_3",
+  "dokumentace": "https://ofn.gov.cz/slovníky/draft/",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/TRAN"
+  ],
+  "právní_předpis": [
+    "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2025-08-19"
+  ],
+  "koncept_euroVoc": [
+    "http://eurovoc.europa.eu/4512"
+  ],
+  "specifikace": [
+    "https://ofn.gov.cz/slovníky/draft/"
+  ],
+  "časové_rozlišení": "P1D",
+  "prostorové_rozlišení_v_metrech": "12.0",
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ministerstvo dopravy, Odbor veřejné dopravy"
+    },
+    "e-mail": "mailto:sekretariat.190@mdcr.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66003008",
+  "distribuce": [
+    
+    {
+      "typ": "Distribuce",
+      "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/slovník-2026-09-11-1.jsonld/distribuce/1",
+      "název": {
+        "cs": "SPARQL endpoint pro jízdní řády",
+        "en": "SPARQL endpoint for timetables"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "přístupové_url": "https://portal.cisjr.cz/sparql",
+        "právní_předpis": [
+          "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2025-08-19"
+        ],
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://portal.cisjr.cz/sparql",
+        "popis_přístupového_bodu": "https://portal.cisjr.cz/sparql",
+        "iri": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/slovník-2026-09-11-1.jsonld/distribuce/1/přístupová-služba",
+        "název": {
+          "cs": "SPARQL endpoint pro jízdní řády",
+          "en": "SPARQL endpoint for timetables"
+        },
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/slovník-2026-09-11-1.jsonld",
+        "specifikace": ["https://www.w3.org/TR/sparql11-protocol/"],
+        "právní_předpis": [
+          "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2025-08-19"
+        ]
+      }
+    }
+  ]
+}
