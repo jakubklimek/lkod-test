@@ -48,7 +48,7 @@
         "euroVoc:4512"
     ],
     "právní_předpis": [
-        "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20",
+        "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2026-01-01",
         "https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01",
         "https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27"
     ],
@@ -93,7 +93,7 @@
                 "typy-obsahu:statistické"
             ],
             "právní_předpis": [
-                "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20",
+                "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2026-01-01",
                 "https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01",
                 "https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27"
             ]
@@ -127,7 +127,7 @@
                 "přístupový_bod": "https://portal.iscrr.cz/sparql",
                 "popis_přístupového_bodu": "https://portal.iscrr.cz/sparql",
                 "právní_předpis": [
-                    "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20",
+                    "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2026-01-01",
                     "https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01",
                     "https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27"
                 ]
@@ -141,7 +141,7 @@
                 "typy-obsahu:evidenční"
             ],
             "právní_předpis": [
-                "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2024-01-20",
+                "https://www.e-sbirka.cz/eli/cz/sb/2000/365/2026-01-01",
                 "https://www.e-sbirka.cz/eli/cz/sb/2023/360/2024-07-01",
                 "https://www.e-sbirka.cz/eli/cz/sb/2026/60/2026-05-27"
             ],
