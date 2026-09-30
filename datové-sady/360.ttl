@@ -62,7 +62,7 @@
                   <https://slovník.gov.cz/legislativní/sbírka/360/2023/pojem/je-získán-způsobem>
                           <https://data.dia.gov.cz/zdroj/číselníky/způsoby-získání-údajů/položky/vlastní>;
                   <https://slovník.gov.cz/legislativní/sbírka/360/2023/pojem/odpovídající-pojem>
-                          <https://slovník.gov.cz/legislativní/sbírka/361/2000/pojem/skupina-vozidel>
+                          <https://slovník.gov.cz/qa-overovaci-slovnik-nkd-sync-20260803/pojem/popisny-udaj-beta>
                 ] .
 
 <https://raw.githubusercontent.com/jakubklimek/lkod-test/main/datové-sady/360.jsonld/datová-rozhraní/1>
@@ -142,4 +142,4 @@
         <http://xmlns.com/foaf/0.1/page>
                 <https://www.mdcr.cz/Dokumenty/Verejna-doprava/Jizdni-rady,-kalendare-pro-jizdni-rady,-metodi-(1)/Jizdni-rady-verejne-dopravy>;
         <https://slovník.gov.cz/veřejný-sektor/pojem/týká-se-pojmu>
-                <https://atom.cuzk.cz/a103-základní-registr---registr-územní-identifikace--adres-a-nemovitostí/pojem/adresní-bod> , <https://slovník.gov.cz/legislativní/sbírka/361/2000/pojem/skupina-vozidel> , <https://slovník.gov.cz/legislativní/sbírka/361/2000/pojem/řidič-evidovaný-v-registru-řidičů> .
+                <https://slovník.gov.cz/qa-overovaci-slovnik-nkd-sync-20260803/pojem/zkusebni-entita-alfa> , <https://atom.cuzk.cz/a103-základní-registr---registr-územní-identifikace--adres-a-nemovitostí/pojem/adresní-bod> , <https://slovník.gov.cz/legislativní/sbírka/361/2000/pojem/skupina-vozidel> , <https://slovník.gov.cz/legislativní/sbírka/361/2000/pojem/řidič-evidovaný-v-registru-řidičů> .

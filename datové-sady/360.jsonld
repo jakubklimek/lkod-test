@@ -55,7 +55,8 @@
     "týká_se_pojmu": [
         "https://slovník.gov.cz/legislativní/sbírka/361/2000/pojem/řidič-evidovaný-v-registru-řidičů",
         "https://slovník.gov.cz/legislativní/sbírka/361/2000/pojem/skupina-vozidel",
-        "https://atom.cuzk.cz/a103-základní-registr---registr-územní-identifikace--adres-a-nemovitostí/pojem/adresní-bod"
+        "https://atom.cuzk.cz/a103-základní-registr---registr-územní-identifikace--adres-a-nemovitostí/pojem/adresní-bod",
+        "https://slovník.gov.cz/qa-overovaci-slovnik-nkd-sync-20260803/pojem/zkusebni-entita-alfa"
     ],
     "je_zahrnuta_v_isvs": "isvs:3",
     "vstupní_stránka": "https://github.com/jakubklimek/lkod-test/blob/main/datové-sady/360.jsonld",
@@ -148,7 +149,7 @@
             "sdílí_údaj": [
                 {
                     "typ": "Sdílení údaje",
-                    "odpovídající_pojem": "https://slovník.gov.cz/legislativní/sbírka/361/2000/pojem/skupina-vozidel",
+                    "odpovídající_pojem": "https://slovník.gov.cz/qa-overovaci-slovnik-nkd-sync-20260803/pojem/popisny-udaj-beta",
                     "způsob_získání_sdílených_údajů": "způsoby-získání:vlastní",
                     "způsob_sdílení_údajů": "způsoby-sdílení:zpřístupňované-pro-výkon-agendy",
                     "typ_obsahu_sdílených_údajů": "typy-obsahu:evidenční"
